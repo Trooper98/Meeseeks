@@ -1,4 +1,7 @@
 # Meeseeks
+
+October 2017 - Lindholmen
+
 Contributors:
 - Lucas Fredin
 - George Sarkisian

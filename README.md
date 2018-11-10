@@ -14,5 +14,6 @@ a lot of work and arguing, we were able to come to a final "product" that ended 
 award.
 
 Being our/my first ever github repository, I have not changed/cleaned it up for the 
-sake of reminding myself where I started from hahaha.
+sake of nostalgia.
+
 
